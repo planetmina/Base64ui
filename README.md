@@ -1,5 +1,4 @@
 # Base64ui
-https://raw.githubusercontent.com/planetmina/Base64ui/main/base64.png
 
 cd
 
