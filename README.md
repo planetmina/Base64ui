@@ -1,10 +1,8 @@
 # Base64ui
-Base64 Ui
 
+cd
 opkg update
 
-cd /root
-
-wget https://github.com/rufengsuixing/luci-app-adguardhome/releases/download/1.8-11/luci-app-adguardhome_1.8-11_all.ipk
+wget https://github.com/planetmina/Base64ui/blob/main/luci-app-base64_1.0_all.ipk
 
 opkg install luci-app-adguardhome_1.8-11_all.ipk
